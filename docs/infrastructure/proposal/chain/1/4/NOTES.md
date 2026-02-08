@@ -1,0 +1,3 @@
+- [ ] I'd like to add selling digital designs that we've already made as part of the possible early revenue streams. It would be of extra value if the pipeline between our digital asset inventory was able to be listed and priced on sites like cgtrader via an agent responsible for digital sales. Also, kansas does not charge sales tax on digital products so that would ease Day 1 filing requiremenmts.
+
+- [ ] I'd also like to see what various funding opportunites there are given the alturistic nature of the business.
