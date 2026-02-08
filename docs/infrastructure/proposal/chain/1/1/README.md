@@ -1,0 +1,3 @@
+# CODEX was asked
+
+> Give me all the infrastructure components, design documents and foundational configurations I would need to run an online jewelry business using shopify  in combination with my own website... I need inventory management that allows for customization of offerings in various metals and gems and combinations of components. I will also be doing custom jewelry design and featuring various up and coming jewelry artists. We want to use a component of our earnings to create programs for additional artists to make a presence for themselves. It is called Noble Metal Studios.
